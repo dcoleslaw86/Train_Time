@@ -1,8 +1,8 @@
 body{
     background: lightslategray;
 }
-.jumbotron-fluid{
-    background-image: url("../images/6108b580.jpg");
+.jumbotron{
+    background-image: url("../images/headerbg.jpg");
     background-size: 100%;
     background-position: auto;
     background-repeat: no-repeat;
