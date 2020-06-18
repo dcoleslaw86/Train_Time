@@ -1,0 +1,80 @@
+body{
+    background: lightslategray;
+}
+.jumbotron-fluid{
+    background-image: url("../images/6108b580.jpg");
+    background-size: 100%;
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-position-y: -575px;
+}
+
+.currentTrainList{
+    margin: 30px 200px 15px 200px;
+}
+
+.addATrain{
+    margin: 30px 200px 80px 200px;
+}
+
+th{
+    width: 5%;
+    text-align: center;
+}
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+    color: #000;
+}
+
+.card-header{
+    background: #000;
+    opacity: .75;
+    color: aliceblue;
+}
+
+#trainData{
+    text-align: center;
+}
+
+.btn {
+    background-color: #566271;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn-secondary:not(:disabled):not(.disabled).active,
+.btn-secondary:not(:disabled):not(.disabled):active,
+.show>.btn-secondary.dropdown-toggle {
+    background-color: #424b57;
+}
+
+.btn:active,
+.btn:focus,
+.form-control:active,
+.form-control:focus,
+.custom-file-input:active,
+.custom-file-input:focus {
+    border-color: rgba(86, 98, 113, .5);
+    box-shadow: 0 0 0 0.2rem rgba(130,138,145,.5);
+}
+
+.btn-dropdown {
+    background-color: #fff !important;
+    border:none;
+    color: #566271;
+    text-align: left;
+}
+
+.btn-dropdown:hover {
+    color: #566271;
+}
+
+.btn-dropdown:active,
+.btn-dropdown:focus {
+    color: #566271;
+    border-color: rgba(86, 98, 113, .5);
+    box-shadow: 0 0 0 0.2rem rgba(130,138,145,.5);
+}
